@@ -8,7 +8,10 @@
 #
 #
 
+# [
 0.0.0.0 ghznews.link
+0.0.0.0 hayasaku.xyz
+# ]
 
 #
 #
@@ -16,11 +19,11 @@
 
 0.0.0.0 matome.naver.jp
 # [
+0.0.0.0 8mato.jp
+0.0.0.0 akb-fam.jp
+0.0.0.0 exile-fam.jp
+0.0.0.0 iromame-beans.jp
 0.0.0.0 jocee.jp
 0.0.0.0 ladytopi.jp
 0.0.0.0 matomame.jp
-0.0.0.0 exile-fam.jp
-0.0.0.0 akb-fam.jp
-0.0.0.0 iromame-beans.jp
-0.0.0.0 8mato.jp
 # ]
